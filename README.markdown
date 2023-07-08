@@ -10,6 +10,12 @@ A library for reading and writing CSV files. Extremely fast, flexible, and easy 
 
 ## Install
 
+###  Package Manager Unity
+Add to manifest.json
+```
+"com.joshclose.csvhelper": "https://github.com/bilal-arikan/CsvHelper-For-Unity.git?path=/src/CsvHelper",
+```
+
 ### Package Manager Console
 
 ```
